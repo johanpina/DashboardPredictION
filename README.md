@@ -1,3 +1,3 @@
-# Dashboard
-This repo is a test of a dashboard creation for Diana Lopez.
+# Dashboard maded for: 
+PredictION: A predictive model to establish performance of Oxford sequencing reads of SARS-CoV-2
 
