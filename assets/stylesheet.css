@@ -1,0 +1,57 @@
+body {
+    background-image: url(https://st.depositphotos.com/4376739/56390/i/1600/depositphotos_563909726-stock-photo-big-genomic-data-visualization-dna.jpg);
+    background-image: url(https://th.bing.com/th/id/OIP.j1pu5TOzFv_y0qfXhNN1uAHaFb?pid=ImgDet&rs=1);
+    background-image: url(https://www.stellarlink.co.jp/wp-content/uploads/2020/11/topimg-contct-1536x864.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    min-height: 100vh;
+  }
+
+
+.banner{
+    height : 150px;
+    margin : 10px -1px 10px;
+    background-color: rgb(66,196,247);
+    border-radius: 8px;
+}
+
+.banner h3{
+    color: #000000;
+    padding-top: 1px;
+    margin-left: 2%;
+    display: inline-block;
+
+}
+.banner h4{
+    color: rgb(0, 0, 0);
+    padding-top: 1px;
+    margin-left: 2%;
+    display: inline-block;
+
+}
+
+.rc-slider-track {
+    background-color: #748DA6;
+  }
+  
+  .rc-slider-dot-active {  
+    border-color: #748DA6;
+    border: solid 2px #748DA6;
+  }
+  
+  .rc-slider-handle {
+    background-color: #748DA6;
+    border-color: #748DA6;
+  }
+  
+  .rc-slider-handle:hover {
+    border-color: #748DA6;
+  }
+  
+  .rc-slider-handle-active:active {
+    border-color: #748DA6;
+  }
